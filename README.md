@@ -32,10 +32,7 @@ Patches welcome!
 References
 ==========
 
-[1] "Hypermedia APIs: the Rest of REST", Øredev 2010.
-    http://vimeo.com/20781278
-[2] "Building Hypermedia APIs with HTML", QCon London 2013.
-    http://www.infoq.com/presentations/web-api-html
-[3] HTML5 Microdata Spec.
-    http://www.whatwg.org/specs/web-apps/current-work/multipage/microdata.html
-[4] Schema.org. http://schema.org/
+* ["Hypermedia APIs: the Rest of REST"](http://vimeo.com/20781278), Øredev 2010. 
+* ["Building Hypermedia APIs with HTML"](http://www.infoq.com/presentations/web-api-html), QCon London 2013. 
+* [HTML5 Microdata Spec](http://www.whatwg.org/specs/web-apps/current-work/multipage/microdata.html).
+* [Schema.org](http://schema.org/).
